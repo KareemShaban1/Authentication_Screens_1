@@ -15,3 +15,4 @@ We design 3 screens first one is a welcome screen like then user open your app i
 if he has an account then press the login button and it just shifts him to the login screen or 
 if he or she don't have an account then press signup button its transfers to the signup screen.
 
+![prototype](https://user-images.githubusercontent.com/42013687/104450154-4f67c700-55a8-11eb-9edd-904a1bb160d1.png)
