@@ -1,4 +1,4 @@
-# Welcome , Login and Sign up Screens - Flutter UI
+# Welcome , Sign In and Sign up Screens - Flutter UI
 
 ## [Watch it on YouTube]( https://www.youtube.com/watch?v=qprvoaDgZFc )
 
